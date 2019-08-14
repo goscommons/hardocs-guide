@@ -1,0 +1,213 @@
+[
+	{
+		"Part Number ": "C0048",
+		"Manufacturer-Vendor": "Arducam",
+		"Quantity ": "1",
+		"Description": "Main LCD for UI display",
+		"": "",
+		"Link": "https://www.amazon.com/Arducam-Display-Controller-Character-Backlight/dp/B019D9TYMI/ref=sr_1_4?ie=UTF8&qid=1521806494&sr=8-4&keywords=LCD+1602"
+	},
+	{
+		"Part Number ": "a14011500ux0042",
+		"Manufacturer-Vendor": "uxcell",
+		"Quantity ": "1",
+		"Description": "Rotary encoder for control",
+		"": "",
+		"Link": "https://www.amazon.com/Position-Degree-Rotary-Encoder-Button/dp/B00KHTLWU6/ref=sr_1_4?ie=UTF8&qid=1521806674&sr=8-4&keywords=rotary+encoder+20mm"
+	},
+	{
+		"Part Number ": "EL-CB-004",
+		"Manufacturer-Vendor": "Elegoo",
+		"Quantity ": "1",
+		"Description": "Arduino Nano microcontroller",
+		"": "",
+		"Link": "https://www.amazon.com/Arduino-Elegoo-board-ATmega328P-compatible/dp/B071NMBP4S/ref=sr_1_4?ie=UTF8&qid=1521806785&sr=8-4&keywords=Arduino+nano"
+	},
+	{
+		"Part Number ": "B01N2U8PK0",
+		"Manufacturer-Vendor": "FBApayipa",
+		"Quantity ": "1",
+		"Description": "Boat Rocker Switch for ON/OFF",
+		"": "",
+		"Link": "https://www.amazon.com/FBApayipa-Solder-Rocker-Switch-Toggle/dp/B01N2U8PK0/ref=sr_1_fkmr2_2?s=electronics&ie=UTF8&qid=1502242803&sr=8-2-fkmr2&keywords=117S+rocker+switch"
+	},
+	{
+		"Part Number ": "4330127279",
+		"Manufacturer-Vendor": "GenBasic",
+		"Quantity ": "1",
+		"Description": "Pack of F to F headers for circuit connections ",
+		"": "",
+		"Link": "https://www.amazon.com/GenBasic-Female-Solderless-Breadboard-Prototyping/dp/B01L5ULRUA/ref=sr_1_3?s=electronics&ie=UTF8&qid=1502243302&sr=1-3&keywords=female+to+female+jumper+wire"
+	},
+	{
+		"Part Number ": "B01D3127NU",
+		"Manufacturer-Vendor": "BLHeli",
+		"Quantity ": "1",
+		"Description": "12A ESC for centrifuge motor",
+		"": "",
+		"Link": "https://www.amazon.com/Hobbypower-BLHeli-Controller-QAV210-Quadcopter/dp/B01D3127NU/ref=pd_sbs_21_8?_encoding=UTF8&pd_rd_i=B01D3127NU&pd_rd_r=5ED6K6Z68AYBN4X0VESG&pd_rd_w=YYWYO&pd_rd_wg=8lcUZ&psc=1&refRID=5ED6K6Z68AYBN4X0VESG"
+	},
+	{
+		"Part Number ": "B00SYH8NXC",
+		"Manufacturer-Vendor": "EMAX",
+		"Quantity ": "1",
+		"Description": "Brushless motor for centrifuge rotor",
+		"": "",
+		"Link": "https://www.amazon.com/Crazepony-MT2204-Brushless-Multirotor-Quadcopter/dp/B00SYH8NXC/ref=sr_1_2?ie=UTF8&qid=1502244417&sr=8-2&keywords=MT2204"
+	},
+	{
+		"Part Number ": "B01MQ48T2V",
+		"Manufacturer-Vendor": "Orcity",
+		"Quantity ": "1",
+		"Description": "Pack of breakaway M and F pins for boards",
+		"": "",
+		"Link": "https://www.amazon.com/2-54mm-Breakaway-Female-Connector-Arduino/dp/B01MQ48T2V/ref=sr_1_2?ie=UTF8&qid=1502244675&sr=8-2&keywords=male+female+pins+arduino"
+	},
+	{
+		"Part Number ": "1361783",
+		"Manufacturer-Vendor": "SUNKEE",
+		"Quantity ": "1",
+		"Description": "IR sensor for lid safety interlock",
+		"": "",
+		"Link": "https://www.amazon.com/SUNKEE-TCRT5000L-TCRT5000-Reflective-Transistor/dp/B008A3VP6M/ref=sr_1_2?ie=UTF8&qid=1502581924&sr=8-2&keywords=tcrt5000"
+	},
+	{
+		"Part Number ": "B013SSU92Y",
+		"Manufacturer-Vendor": "ALED LIGHT",
+		"Quantity ": "1",
+		"Description": "2A Power adapter (US)",
+		"": "",
+		"Link": "https://www.amazon.com/gp/product/B013SSU92Y/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1"
+	},
+	{
+		"Part Number ": "EXPSFD005794",
+		"Manufacturer-Vendor": "eBoot",
+		"Quantity ": "1",
+		"Description": "LM2596 Voltage Regulator",
+		"": "",
+		"Link": "https://www.amazon.com/eBoot-LM2596-Converter-3-0-40V-1-5-35V/dp/B01GJ0SC2C/ref=sr_1_1_sspa?ie=UTF8&qid=1521807489&sr=8-1-spons&keywords=DROK+lm2596&psc=1"
+	},
+	{
+		"Part Number ": "a15071300ux0341",
+		"Manufacturer-Vendor": "uxcell",
+		"Quantity ": "1",
+		"Description": "200 Ohm trim potentiometer for LCD contrast",
+		"": "",
+		"Link": "https://www.amazon.com/a15071300ux0341-Terminals-Potentiometer-Adjustable-Resistor/dp/B015AUI2TK/ref=sr_1_19?s=industrial&ie=UTF8&qid=1521807589&sr=1-19&keywords=200+ohm+potentiometer"
+	},
+	{
+		"Part Number ": "B071439J4B",
+		"Manufacturer-Vendor": "E-Projects",
+		"Quantity ": "2",
+		"Description": "10k Ohm resistors for circuit board",
+		"": "",
+		"Link": "https://www.amazon.com/Projects-10EP51410K0-10k-Resistors-Pack/dp/B071439J4B/ref=sr_1_5?s=industrial&ie=UTF8&qid=1521807693&sr=1-5&keywords=10k+ohm+1%2F4+w"
+	},
+	{
+		"Part Number ": "B0725G2WM7",
+		"Manufacturer-Vendor": "E-Projects",
+		"Quantity ": "1",
+		"Description": "100 Ohm resistor for circuit board",
+		"": "",
+		"Link": "https://www.amazon.com/Projects-100EP514100R-100-Resistors-Pack/dp/B0725G2WM7/ref=sr_1_3?s=industrial&ie=UTF8&qid=1521807826&sr=1-3&keywords=100+ohm+1%2F4+w"
+	},
+	{
+		"Part Number ": "N/A",
+		"Manufacturer-Vendor": "DoubleGene",
+		"Quantity ": "1",
+		"Description": "Open-Source Polyfuge PCB",
+		"": "",
+		"Link": "See open-source files"
+	},
+	{
+		"Part Number ": "UK-HM023",
+		"Manufacturer-Vendor": "ZRAMO",
+		"Quantity ": "1",
+		"Description": "Barrel Jack adapter for power supply",
+		"": "",
+		"Link": "https://www.amazon.com/ZRAMO-5-5x2-1mm-Adapter-Connector-Security/dp/B06XXCTNX5/ref=sr_1_5?ie=UTF8&qid=1521808076&sr=8-5&keywords=female+dc+plug"
+	},
+	{
+		"Part Number ": "N/A",
+		"Manufacturer-Vendor": "DoubleGene",
+		"Quantity ": "1",
+		"Description": "Open-Source Polyfuge centrifuge rotor ",
+		"": "",
+		"Link": "See open-source files"
+	},
+	{
+		"Part Number ": "N/A",
+		"Manufacturer-Vendor": "DoubleGene",
+		"Quantity ": "1",
+		"Description": "Open-Source laser cut or 3D-printed frame components ",
+		"": "",
+		"Link": "See open-source files"
+	},
+	{
+		"Part Number ": "92005A128",
+		"Manufacturer-Vendor": "McMaster-Carr",
+		"Quantity ": "50",
+		"Description": "20mm M3 Steel Philips Rounded Screw",
+		"": "",
+		"Link": "https://www.mcmaster.com/#catalog/123/3033/=178lzno"
+	},
+	{
+		"Part Number ": "90591A250",
+		"Manufacturer-Vendor": "McMaster-Carr",
+		"Quantity ": "50",
+		"Description": "M3 Steel Hex Nut",
+		"": "",
+		"Link": "https://www.mcmaster.com/#catalog/123/3210/=178m0rv"
+	},
+	{
+		"Part Number ": "91166A210",
+		"Manufacturer-Vendor": "McMaster-Carr",
+		"Quantity ": "10",
+		"Description": "M3 Steel Washer",
+		"": "",
+		"Link": "https://www.mcmaster.com/#catalog/123/3254/=178m1nk"
+	},
+	{
+		"Part Number ": "90133A005",
+		"Manufacturer-Vendor": "McMaster-Carr",
+		"Quantity ": "50",
+		"Description": "M3 Rubber Washer",
+		"": "",
+		"Link": "https://www.mcmaster.com/#standard-rubber-washers/=19akq7h"
+	},
+	{
+		"Part Number ": "92005A120",
+		"Manufacturer-Vendor": "McMaster-Carr",
+		"Quantity ": "4",
+		"Description": "10mm M3 Steel Philips Rounded Screw",
+		"": "",
+		"Link": "https://www.mcmaster.com/#machine-screws/=17ptixe"
+	},
+	{
+		"Part Number ": "SCB03-144",
+		"Manufacturer-Vendor": "ROK Hardware",
+		"Quantity ": "4",
+		"Description": "Furniture bumpers to dampen vibrations on bottom of unit",
+		"": "",
+		"Link": "https://www.amazon.com/Rok-Hardware-Cabinet-Furniture-Diameter/dp/B00K6RZ9Q2/ref=sr_1_1?ie=UTF8&qid=1495341054&sr=8-1&keywords=rok+hardware+furniture+bumpers"
+	},
+	{
+		"Part Number ": "B00J0ECR5I",
+		"Manufacturer-Vendor": "Hatchbox",
+		"Quantity ": "1",
+		"Description": "PLA Filament for printing rotor and encoder knob (use 20% infill or higher)",
+		"": "",
+		"Link": "https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B01N53KX79/ref=sr_1_1?ie=UTF8&qid=1521927286&sr=8-1&keywords=pla+hatchbox"
+	},
+	{
+		"Part Number ": "8505K748",
+		"Manufacturer-Vendor": "McMaster-Carr",
+		"Quantity ": "24\" x 20\"",
+		"Description": "3/16\" Acrylic for frame pieces (purchase from local companies/stores for cheaper prices)",
+		"": "",
+		"Link": "https://www.mcmaster.com/#clear-impact-resistant-plastic/=1c43uxq"
+	},
+	{
+		"Part Number ": ""
+	}
+]

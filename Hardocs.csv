@@ -1,0 +1,9 @@
+Process description,Command Name,Inputs,Outputs,File,Status
+Make BOM from cvs,mkbom:csv,file path `.csv` ,A bom.md file to `docs/source/` and updated `project.json`,csv2md.js,Built
+"Takes the links given in the `csv` , downloads the images and stores it in a folder with the proper names of the parts",mkbom:csv,Link in csv file under the Image field,Downloaded images in src folder.,imgDownload.js,Built
+Check if certain folders exists when a function is executed,,callback function requiring a validation,"if positive proceeds, if negative exits entire node process.",check-dir.js,Built
+Update the project.json file with different functions related to updating and manipulating the projects metadata,,,,update-project.js,not avaiable
+"It is a command for making orders, orders are similar to BOMs and derive from them",mkorder:csv,"Part.yml files with detail information about prices, links to shops, etc.",A csv and/or markdown file.,,not avaiable
+Update config.js based on input given in yaml from the user in the data folder,,,,,not avaiable
+Create project related metadata,,`/data/Project.yml` ,Updates `project.json` with project metadata.,,not avaiable
+Creates parts metadata,,"mkbom:csv, `project.json`",Generates the a `<PartName>.yml` for each part with the fields and attributes to fill in.,,not avaiable
