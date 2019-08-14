@@ -1,5 +1,5 @@
 {
-    "name": "hardocs",
+    "name": "hardocs-guide",
     "version": "1.0.0",
     "description": "Hardocs stand for hardware documentation. It is a template to easily start an open hardware project document it, and publish it using a git based workflow",
     "main": "index.js",
