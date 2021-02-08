@@ -1,4 +1,6 @@
 # Hardocs 
+# Attention, this repo is deprecated, to know more about hardocs current status go to hardocs.github.io
+
 ## An open source tool for hardware documentation powered by vuepress, git and a simple CLI
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
