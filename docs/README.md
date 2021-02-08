@@ -1,5 +1,7 @@
 # Intro to hardocs
 
+# Attention this documentation is deprecated, to know more about hardocs current status, go to [hardocs.github.io](https://hardocs.github.io)
+
 ![banner](./images/hardocs-banner.png)
 Hardocs is a package to make hardware documentation more user friendly and intuitive. Hardware related documentation and information should be compliant with the following [FAIR DATA principles](https://www.force11.org/group/fairgroup/fairprinciples):
 
